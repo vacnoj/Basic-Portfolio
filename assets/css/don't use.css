@@ -1,0 +1,46 @@
+
+.header {
+	color: blue; 
+	background-color: black;
+	margin: 0; 
+	}
+
+header {
+	text-align: left;
+	}
+
+nav {
+	position: fixed;
+	width: 100%;
+
+	}
+
+table {
+	text-align: center;
+	width:100%;
+	}	
+
+.portrait { 
+	display: block;
+	margin: auto;
+
+	}
+
+.aside { 
+	position: relative;
+	left: 50%;
+	display: inline;
+	margin: auto;
+	}
+
+.section {
+	position: relative;
+	left:0%;
+	width:50%;
+	}
+
+img {
+	margin: auto, 50%;
+
+	}
+
