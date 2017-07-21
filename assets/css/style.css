@@ -82,7 +82,7 @@ section {
 	text-align: left;
 	padding: 20px;
 }
-input {
+.inputs {
 	text-align: left;
 	width: 590px;
 	margin: 20px 0px;
@@ -95,8 +95,9 @@ textarea {
 	margin: 20px 0px;
 	font-size: 16pt;
 }
-#submitEmail {
-	width: default;
+#submit:hover {
+	background-color: deepskyblue;
+	transition: 10;
 }
 .portfolioImages {
 	height: 200px;
