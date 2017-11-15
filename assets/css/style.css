@@ -125,6 +125,7 @@ li {
 	height: 55px;
 	width: 55px;
 	display: inline-block;
+	padding: 5px;
 }
 
 footer {
@@ -136,4 +137,14 @@ footer {
 	min-height: 80px;
 	margin-bottom: 0px;
 	color: #cccccc;
+}
+
+@media screen and (max-width: 980px ) {
+
+}
+@media screen and (max-width: 768px ) {
+	
+}
+@media screen and (max-width: 640px ) {
+	
 }
